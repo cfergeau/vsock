@@ -1,4 +1,4 @@
-//+build go1.12,linux
+//+build go1.12,darwin +build go1.12,linux
 
 package vsock
 

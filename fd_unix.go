@@ -1,3 +1,5 @@
+//+build go1.12,darwin go1.12,linux
+
 package vsock
 
 import (
